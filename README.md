@@ -41,7 +41,7 @@ Si deseas correr este proyecto de forma local:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/MaicolFreire001/b2b-analytics-dashboard.git](https://github.com/MaicolFreire001/b2b-analytics-dashboard.git)
+   git clone https://github.com/MaicolFreire001/b2b-analytics-dashboard.git
    ```
    
 2. Instala las dependencias:
